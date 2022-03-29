@@ -1,0 +1,19 @@
+{
+  "name": "game_requirements",
+  "version": "1.0.0",
+  "description": "List of games and their requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaklcoding/jaklcoding-game-requirements.git"
+  },
+  "author": "jakl.coding@pm.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaklcoding/jaklcoding-game-requirements/issues"
+  },
+  "homepage": "https://github.com/jaklcoding/jaklcoding-game-requirements#readme"
+}

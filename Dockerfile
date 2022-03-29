@@ -2,7 +2,8 @@ FROM alpine
 
 LABEL maintainer="jakl.coding@pm.me"
 
-RUN apk add --update nodejs nodejs-npm
+RUN apk add --update nodejs npm
+RUN apk add --update npm
 
 COPY . /src
 
